@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+
+  "name": "Webgdbp Extension",
+  "description": "Passes debug information from xdebug -> Webgdbp app to browser",
+  "version": "1.0",
+  "devtools_page": "devtools.html",
+  "permissions": [
+  ]
+}
